@@ -1,6 +1,8 @@
 Final Projects: Please submit a brief descriptive synopsis alongside your final project. Each final project must have a description synopsis. The 500-1000 word synopsis should detail your project's **structure, content, and contribution**. Do not duplicate the synopsis for group projects. Each student will write an individual synopsis.
 
+```
 _CU Sustainable: doomed… till we're not!_
+```
 
 For the final project, I created a program called "doomed" in the programming language C, that takes in as input the name of a common food item and returns three metrics to the user. The first is greenhouse gas emissions per kilogram, the second is the total impact they have had so far, and lastly is the average impact they've had which is computed over the course of their day.
 
